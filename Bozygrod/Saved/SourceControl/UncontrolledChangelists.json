@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/BP_Player.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/BP_GameMode.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/TestMap.umap"
+			]
+		}
+	]
+}
