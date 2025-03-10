@@ -5,6 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/BP_Player.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/BP_GameMode.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/TestMap.umap",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/BP_Player.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/PlayerItems.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/kuszabp.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/TestMap.umap",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza2.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/strzala.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza/kusza2.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza/kusza_ikona.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza/Material.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza/Material_001.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza/Material_002.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/kusza/strzala.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Material_002.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Material_001.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Material.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/UI.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/kusza_ikona.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/NewHUD.uasset",
+				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/RybnikFsoProjekt/Bozygrod/Content/Blueprints/HUDInfo.uasset",
 				"C:/Users/maksy/Desktop/FAT FISH PRODUCTION/GRA/RybnikFsoProjekt/Bozygrod/Content/ser/serek_plesn_bp.uasset",
 				"C:/Users/maksy/Desktop/FAT FISH PRODUCTION/GRA/RybnikFsoProjekt/Bozygrod/Content/ser/serek.uasset",
 				"C:/Users/maksy/Desktop/FAT FISH PRODUCTION/GRA/RybnikFsoProjekt/Bozygrod/Content/TestMap.umap",
@@ -44,10 +66,7 @@
 				"C:/Users/micha/Downloads/Prototyp-gierki-main/RybnikFsoProjekt/Bozygrod/Content/strzala.uasset",
 				"C:/Users/Maks/Documents/Unreal Projects/MyProject5/RybnikFsoProjekt/Bozygrod/Content/NewBlueprint.uasset",
 				"C:/Users/Maks/Documents/Unreal Projects/MyProject5/RybnikFsoProjekt/Bozygrod/Content/Door.uasset",
-				"C:/Users/micha/Downloads/Prototyp-gierki-main/RybnikFsoProjekt/Bozygrod/Content/NewBlueprint.uasset",
-				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/BP_Player.uasset",
-				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/BP_GameMode.uasset",
-				"D:/2024-2025/Pulpit/RybnikFsoGraNaZaliczenie/Bozygrod/Bozygrod/Content/TestMap.umap"
+				"C:/Users/micha/Downloads/Prototyp-gierki-main/RybnikFsoProjekt/Bozygrod/Content/NewBlueprint.uasset"
 			]
 		}
 	]
